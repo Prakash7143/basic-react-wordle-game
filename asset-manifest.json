@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/basic-react-wordle-game/static/css/main.e71bccd1.css",
+    "main.js": "/basic-react-wordle-game/static/js/main.06d0095f.js",
+    "index.html": "/basic-react-wordle-game/index.html",
+    "static/media/samples.txt": "/basic-react-wordle-game/static/media/samples.b745ddf217478f6789f7.txt",
+    "main.e71bccd1.css.map": "/basic-react-wordle-game/static/css/main.e71bccd1.css.map",
+    "main.06d0095f.js.map": "/basic-react-wordle-game/static/js/main.06d0095f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71bccd1.css",
+    "static/js/main.06d0095f.js"
+  ]
+}
